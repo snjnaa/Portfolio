@@ -3,7 +3,7 @@
 This is a simple portfolio website built using HTML, CSS and JavaScript (will be updated soon).
 
 ## Features 🚀
-  - Carousel view projects
+  - Image slider view 
   - feature 02
   - feature 03
 
